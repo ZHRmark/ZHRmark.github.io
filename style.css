@@ -1,6 +1,18 @@
- h{ 
+ h1{ 
  color:violet; 
  font-size:56px; 
+}
+ h2{ 
+ color:violet; 
+ font-size:30px; 
+}
+ h3{ 
+ color:violet; 
+ font-size:30px; 
+}
+ h4{ 
+ color:violet; 
+ font-size:30px; 
 }
 body { 
  background-color:azure; 
