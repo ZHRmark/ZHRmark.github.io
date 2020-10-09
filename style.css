@@ -8,6 +8,15 @@ body {
 p { 
  color:black; 
 }                                                        
-.box{
-      font-style::
-}     
+.box1{
+      color:#fcedb9;
+      width:90%;
+      font-family:"STKAITI";
+      border-radius:25px;
+      border-top:5px #fcedb9 dotted;
+      border-bottom:5px #fcedb9 dotted;
+      border-left:5px #fcedb9 double;
+      border-right:5px #fcedb9 double;
+      boeder-radius:10px;
+      margin:5px 30px
+}
